@@ -1,0 +1,90 @@
+[{"name": "Trinity Church",
+    "year": "1846",
+    "location": "79 Broadway",
+    "tall": "279"
+    },
+{
+    "name": "Latting Observatory",
+    "year": "1853",
+    "location": "42nd Street and Fifth Avenue",
+    "tall": "315"
+    },
+{
+    "name": "Trinity Church",
+    "year": "1854",
+    "location": "79 Broadway",
+    "tall": "279"
+    },
+{
+    "name": "World Building",
+    "year": "1890",
+    "location": "Frankfort Street",
+    "tall": "348"
+    },
+{
+    "name": "Manhattan Life Insurance Building",
+    "year": "1894",
+    "location": "64–70 Broadway",
+    "tall": "348"
+    },
+{
+    "name": "Park Row Building",
+    "year": "1899",
+    "location": "13–21 Park Row",
+    "tall": "391"
+    },
+{
+    "name": "Singer Building",
+    "year": "1908",
+    "location": "149 Broadway",
+    "tall": "612"
+    },
+{
+    "name": "Metropolitan Life Insurance Company Tower",
+    "year": "1909",
+    "location": "1 Madison Avenue",
+    "tall": "700"
+    },
+{
+    "name": "Woolworth Building",
+    "year": "1913",
+    "location": "233 Broadway",
+    "tall": "792"
+    },
+{
+    "name": "Bank of Manhattan Trust Building",
+    "year": "1930",
+    "location": "40 Wall Street",
+    "tall": "927"
+    },
+{
+    "name": "Chrysler Building",
+    "year": "1930.5",
+    "location": "405 Lexington Avenue",
+    "tall": "1046"
+    },
+{
+    "name": "Empire State Building",
+    "year": "1931",
+    "location": "350 Fifth Avenue",
+    "tall": "1250"
+    },
+{
+    "name": "1 World Trade Center",
+    "year": "1972",
+    "location": "1 World Trade Center",
+    "tall": "1368"
+    },
+{
+    "name": "Empire State Building",
+    "year": "2001",
+    "location": "350 Fifth Avenue",
+    "tall": "1250"
+    },
+{
+    "name": "One World Trade Center",
+    "year": "2013",
+    "location": "1 World Trade Center",
+    "tall": "1776"
+    }
+]
